@@ -4,17 +4,16 @@
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- ✨ Maintain MIUI VIETSUB MODULE
+- 🇻🇳 I Working on MIUIVIETSUB ROM
+- 🤑 C launguage Freelancer 
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🏢 I'm currently studying at **:: HCMC University of Technology and Education, Đại học Sư phạm Kỹ thuật ::"**
+- ⚙️ I use daily: `.sh`, `.cpp`, `.mk`.
+- 🌍 I'm mostly active within the **K30 5G Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 📫 Reach me: [facebook.com/BuihienLink1606](https://www.facebook.com/BuihienLink1606)
+- ⚡️ Fun fact: I'm a huge fan of **Spidey**
+- 🔥Donate me at 
