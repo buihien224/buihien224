@@ -11,7 +11,7 @@
 ##### BIO
 
 - 🏢 I studied at **:: HCMC University of Technology and Education, Đại học Sư phạm Kỹ thuật ::"**
-- ⚙️ I use daily: `.sh`, `.cpp`, `.mk`.
+- ⚙️ I use daily: `.sh`, `.smali`, `.py`.
 - 🌍 I'm mostly active within https://t.me/miuivs
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [facebook.com/BuihienLink1606](https://www.facebook.com/BuihienLink1606)
