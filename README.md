@@ -1,19 +1,30 @@
-### Hi there 👋
+# 👋 Hey there, tech adventurer!  
 
-#### I'm a Part-Time Developer working in HCM City, VietNam.
+## 🚀 Full-Time Developer | ROM Master | Open-Source Enthusiast  
 
-##### NOW
+### 🔥 WHAT I DO  
+- 🛠 **Creator & Maintainer** of **VS ROM/Tool Project**  
+- 💻 **Developing:**  
+  - 🖥 **VS Toolbox (PC)** – A powerful tool for flashing & tweaking  
+  - 📱 **VSTools (Android)** – The ultimate mobile companion  
+- 🇻🇳 **Flashing, Unbrick, Unlock** – Turning dead phones into warriors!  
+- 🧑‍💻 Fluent in:  
+  - **Java** – Android development & system tools  
+  - **JavaScript** – Frontend & backend magic  
+  - **Bootstrap** – Clean, responsive UI  
+  - **Python, C, Bash** – My coding trinity  
 
-- ✨ Maintain VS ROM/Tool Project
-- 🇻🇳 I Working at Cài Rom VietSub-MIUI, Unbrick, Unlock
-- 🤑 Python, C, Bash 
+### 🎯 ABOUT ME  
+- 🎓 **Graduated from HCMC University of Technology and Education**  
+- ⚙️ My daily dose: `.sh`, `.smali`, `.py`, `.java`, `.js`  
+- 🌍 Hanging out with the **MIUI VS** crew → [Join us on Telegram](https://t.me/miuivs)  
+- 🔍 Always exploring the **Open Source world**  
+- 🕷️ **Spidey fan** – because *"With great power comes great responsibility!"*  
 
-##### BIO
+### 📬 CONNECT WITH ME  
+- 🔗 **Facebook:** [facebook.com/bhlnk22](https://www.facebook.com/bhlnk22)  
+- 💰 **Support my work & keep the fire alive!**  
 
-- 🏢 I studied at **:: HCMC University of Technology and Education, Đại học Sư phạm Kỹ thuật ::"**
-- ⚙️ I use daily: `.sh`, `.smali`, `.py`.
-- 🌍 I'm mostly active within https://t.me/miuivs
-- 🌱 Learning all about **Open Source**
-- 📫 Reach me: [facebook.com/BuihienLink1606](https://www.facebook.com/bhlnk22)
-- ⚡️ Fun fact: I'm a huge fan of **Spidey**
-- 🔥Donate me at 
+---
+
+💡 *Feel free to contribute, suggest improvements, or just say hi!* 🚀
