@@ -5,8 +5,8 @@
 ### 🔥 WHAT I DO  
 - 🛠 **Creator & Maintainer** of **VS ROM/Tool Project**  
 - 💻 **Developing:**  
-  - 🖥 **VS Toolbox (PC)** – A powerful tool for flashing & tweaking  
-  - 📱 **VSTools (Android)** – The ultimate mobile companion  
+  - 🖥 **VS Toolbox (PC)** – A python base powerful tool for flashing & tweaking  
+  - 📱 **VSTools (Android)** – The java base ultimate mobile companion  
 - 🇻🇳 **Flashing, Unbrick, Unlock** – Turning dead phones into warriors!  
 - 🧑‍💻 Fluent in:  
   - **Java** – Android development & system tools  
